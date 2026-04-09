@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Conor Daut! <br>I am a student at SEMO studying cybersecurity. <br>In my free time I like working on my homelab.<br>Any code made with AI will be noted. Prompts will be documented when applicable.
+Hello, my name is Conor Daut! <br>I am a student at SEMO studying cybersecurity. <br>In my free time I like working on my homelab and completing pwn.college dojos.<br>Any code made with AI will be noted. Prompts will be documented when applicable.
 
 
 # 💻 Tech Stack:
